@@ -1,4 +1,4 @@
 GO
 ==
 
-My GO code
+A container for my GO code
