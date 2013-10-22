@@ -1,0 +1,4 @@
+GO
+==
+
+My GO code
