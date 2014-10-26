@@ -1,1 +1,8 @@
-This is my first GO command, the usual Hello World.
+Here is my first GO command, the usual Hello World.
+
+I will also use this repo to group my first GO experiments,
+to test 'go get' github integration and experiment with 
+GO project configuration with and without Eclipse (GoClipse).
+
+You can find GoClipse installation instructions here 
+https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
