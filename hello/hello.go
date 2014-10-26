@@ -1,7 +1,7 @@
 package main
 
 import	"fmt"
-import	"github.com/RobMcZag/GO/hello/newmath"
+import	"github.com/RobMcZag/GO/newmath"
 
 
 func main() {
